@@ -7,7 +7,7 @@ if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
 # 画像サイズを指定
-image_size = (512, 512)
+image_size = (512, 100)
 
 # フォントのサイズを指定
 font_size = 60
